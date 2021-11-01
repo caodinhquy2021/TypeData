@@ -1,2 +1,1 @@
-# TYPEDATA1
-# TYPEDATA1
+# TypeData
